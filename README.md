@@ -38,4 +38,4 @@ Technologies Used:
 
 Power BI Desktop
 
-DAX (for any calculated fields)
+DAX (TOTAL_SALES)
